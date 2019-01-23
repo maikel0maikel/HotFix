@@ -1,0 +1,3 @@
+com/zbq/demo/hotfix/BaseActivity.class
+com/zbq/demo/hotfix/MainActivity.class
+com/zbq/demo/hotfix/MyApplication.class

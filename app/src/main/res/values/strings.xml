@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HotFix</string>
+    <string name="jump_text">跳转</string>
+    <string name="cal_text">计算</string>
+    <string name="hot_text">修复</string>
+    <string name="cal_result_text">计算得到的结果是%1$d</string>
+</resources>
